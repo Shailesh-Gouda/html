@@ -4,6 +4,7 @@ This repo is auto-managed by the portfolio app.
 
 ## Projects
 
+- [harish](https://github.com/Shailesh-Gouda/html/tree/main/projects/harish) — menu
 - [html](https://github.com/Shailesh-Gouda/html/tree/main/projects/html) — somyfhhf
 - [fghjkl](https://github.com/Shailesh-Gouda/html/tree/main/projects/fghjkl) — hjk,.
 - [fbnm,](https://github.com/Shailesh-Gouda/html/tree/main/projects/fbnm) — fghj,
